@@ -1,0 +1,1 @@
+{"id":"Microsoft.VisualStudio.PackageGroup.JavaScript.Language","version":"16.0.28516.191","type":"Group","dependencies":{"Microsoft.CodeAnalysis.VisualStudio.Setup":"[3.0,4.0.0.0)","TypeScript.Tools":"[15.0,17.0)","TypeScript.LanguageService":"[15.0,17.0)","Microsoft.VisualStudio.Package.NodeJs":"1.0","Microsoft.VisualStudio.PackageGroup.CommunityCore":"[16.0,17.0)"}}
