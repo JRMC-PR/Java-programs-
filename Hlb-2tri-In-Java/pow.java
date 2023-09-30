@@ -5,7 +5,7 @@ Return the result of the multiplication.
 In the main method, call the pow method with test values for a and b to verify that it works correctly.
  */
 public class pow {
-    /*
+    /**
      * Define a public static method called pow that takes two int parameters
      * and returns an int.
      */
@@ -23,7 +23,8 @@ public class pow {
         }
         return result;
     } // end Pow method
-    /*
+
+    /**
      * main method
      */
 

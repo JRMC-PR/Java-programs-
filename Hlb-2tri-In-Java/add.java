@@ -6,7 +6,7 @@ Return the result of the addition.
 In the main method, call the add method with test values for a and b to verify that it works correctly.
 */
 public class add {
-    /*
+    /**
      * Define a public static method called add that takes two int parameters and
      * returns an int.
      */
@@ -14,7 +14,7 @@ public class add {
         return a + b;
     } // end add
 
-    /*
+    /**
      * main method
      */
     public static void main(String[] args) {
