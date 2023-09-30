@@ -18,7 +18,7 @@ public class pow {
             return result;
         } // end if
         else if (b < 0) {
-            result = 1 / b;
+            result = 1.0 / Pow(a, -b);
             return result;
         }
         return result;
