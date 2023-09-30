@@ -1,6 +1,6 @@
 # Turabo Work
 
-This repository contains several Java programs that demonstrate basic programming concepts.
+This repository contains several Java programs that I have written for my Turabo University courses.
 
 ## Description
 
