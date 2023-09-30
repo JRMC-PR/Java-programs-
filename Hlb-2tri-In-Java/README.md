@@ -35,6 +35,8 @@ This would compile the `add.java` file and run the resulting `add.class` file, w
 | print_last_digit.java     | Defines a `public static` method called `printLastDigit` that takes an `int` parameter and prints the last digit of the number.                                                                                     |
 | uppercase.java            | Defines a `public static` method called `uppercase` that takes a `char` parameter and returns the uppercase version of the character.                                                                               |
 | uppercase$islower.java    | Defines a `public static` method called `uppercase$islower` that takes a `char` parameter and returns the uppercase version of the character if it is lowercase, and the character itself otherwise.                |
+| print_tebahpla.java       | Prints the lowercase alphabet in descending order.                                                                                                                                                                  |
+| remove_char_at.java       | Defines a `public static` method called `removeCharAt` that takes a `String` parameter and an `int` parameter and returns the string copy without the character at the specified index removed.                     |
 
 To view the source code for any of these files, simply click on the file name in the table above.
 
