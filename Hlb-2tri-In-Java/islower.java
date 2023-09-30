@@ -22,7 +22,6 @@ public class islower {
 
     /*
      * TODOTest the Islower method
-     * 
      */
     public static void main(String[] args) {
         System.out.println("a is " + (Islower("a") ? "lower" : "upper"));
