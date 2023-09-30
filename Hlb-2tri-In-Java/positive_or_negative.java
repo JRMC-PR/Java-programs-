@@ -9,12 +9,11 @@
 &if the number is less than 0: is negative
 &followed by a new line
  */
-import java.util.*;
 
 public class positive_or_negative {
 
     public static void main(String[] args) {
-        //& generate a random number
+        // & generate a random number
         int number = (int) (Math.random() * 100 + 1); // & generate a random number
         // verify and print
         if (number > 0)

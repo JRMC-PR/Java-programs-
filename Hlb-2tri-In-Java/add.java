@@ -10,7 +10,7 @@ public class add {
      * Define a public static method called add that takes two int parameters and
      * returns an int.
      */
-    public static int add(int a, int b) {
+    public static int Add(int a, int b) {
         return a + b;
     } // end add
 
